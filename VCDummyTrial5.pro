@@ -6,6 +6,10 @@ SOURCES += main.cpp
 
 RESOURCES += qml.qrc
 
+#.pro file
+#Application version
+VERSION_TAG
+
 # Additional import path used to resolve QML modules in Qt Creator's code model
 QML_IMPORT_PATH =
 
