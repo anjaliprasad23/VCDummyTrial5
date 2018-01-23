@@ -6,7 +6,7 @@ ApplicationWindow {
     visible: true
     width: 640
     height: 480
-    title: qsTr("V1.1.03")
+    title: qsTr("V1.1.07")
 
     SwipeView {
         id: swipeView
