@@ -39,5 +39,8 @@ ApplicationWindow {
         TabButton {
             text: qsTr("Fourth")
         }
+        TabButton {
+            text: qsTr("Five")
+        }
     }
 }
